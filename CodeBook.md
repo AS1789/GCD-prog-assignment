@@ -17,7 +17,7 @@ the activity which the individual was engaged in when the measurement was taken.
 # columns 3 to 68
 Mean values of measured features for each combination of subject and activity. The labels in the file relate to the labelling of the original
 features in the originally downloaded data, detailed below as column number, name in file, original feature label (with minor adjustment to produce a
-unique name legal in R by replacing - with ./ and removing() ).  The original feature measures have been standardised on to a scale from -1 to 1
+unique name legal in R by replacing - with . and removing() ).  The original feature measures have been standardised on to a scale from -1 to 1
 and so have no units.
 
 1. "Subject" (described above)
