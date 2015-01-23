@@ -19,7 +19,9 @@ Mean values of measured features for each combination of subject and activity. T
 features in the originally downloaded data, detailed below as column number, name in file, original feature label (with minor adjustment to produce a
 unique name legal in R by replacing - with ./ and removing() ).  The original feature measures have been standardised on to a scale from -1 to 1
 and so have no units.
- 
+
+1. "Subject" (described above)
+2. "Activity" (described above)
 3. "Subj.Activity.Mean.of...Time.Domain.Body.Accel.mean...X"      mean by subject and activity from the original feature called "tBodyAcc.mean...X"
 4. "Subj.Activity.Mean.of...Time.Domain.Body.Accel.mean...Y"      mean by subject and activity from the original feature called "tBodyAcc.mean...Y"
 5. "Subj.Activity.Mean.of...Time.Domain.Body.Accel.mean...Z"      mean by subject and activity from the original feature called "tBodyAcc.mean...Z"
